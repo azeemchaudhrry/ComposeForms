@@ -1,4 +1,4 @@
-# RecipientForm - Android Jetpack Compose Form Validation
+# ComposeForms - Android Jetpack Compose Form Validation
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5.0-green.svg)](https://developer.android.com/jetpack/compose)
@@ -76,8 +76,8 @@ dependencies {
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/RecipientForm.git
-cd RecipientForm
+git clone https://github.com/yourusername/ComposeForms.git
+cd ComposeForms
 ```
 
 2. Open the project in Android Studio
@@ -174,7 +174,7 @@ ValidatedTextField(
 app/
 ├── src/
 │   ├── main/
-│   │   ├── java/com/yourpackage/recipientform/
+│   │   ├── java/com/yourpackage/ComposeForms/
 │   │   │   ├── ui/
 │   │   │   │   ├── components/
 │   │   │   │   │   └── ValidatedTextField.kt
@@ -234,7 +234,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 🐛 Known Issues
 
-None at the moment. Please report issues [here](https://github.com/yourusername/RecipientForm/issues).
+None at the moment. Please report issues [here](https://github.com/yourusername/ComposeForms/issues).
 
 ## 📄 License
 
@@ -279,8 +279,8 @@ SOFTWARE.
 ## 📞 Support
 
 If you have any questions or need help, please:
-- Open an [issue](https://github.com/yourusername/RecipientForm/issues)
-- Join our [Discussions](https://github.com/yourusername/RecipientForm/discussions)
+- Open an [issue](https://github.com/yourusername/ComposeForms/issues)
+- Join our [Discussions](https://github.com/yourusername/ComposeForms/discussions)
 - Star ⭐ this repository if you find it helpful!
 
 ---
